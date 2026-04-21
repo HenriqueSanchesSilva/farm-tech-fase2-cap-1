@@ -151,7 +151,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Demonstração completa do funcionamento do projeto (até 5 minutos, vídeo não listado no YouTube):
 
-**🔗 [replace_link_youtube](www.replace_link_youtube.com)**
+**🔗 [replace_link_youtube](www.youtube.com)**
 
 ## 📋 Licença
 
